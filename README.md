@@ -1,2 +1,2 @@
-# -Softuni-js-fundamentals
+# Softuni-js-fundamentals
 Functions
